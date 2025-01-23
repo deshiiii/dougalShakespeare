@@ -42,10 +42,10 @@ profiles:
 education:
   - area: PhD Computer Science
     institution: EHESS
-    date_start: 2021
-    date_end: 2025
+    date_start: 01.10.2021
+    date_end: 01.03.2025
     summary: |
-      Thesis on how the different facets of music streaming platforms shape listening practices. Supervised by [Prof Camille Roth](https://camilleroth.github.io/).
+      Thesis on how the different facets of music streaming platforms shape listening practices. Supervised by Prof. [Camille Roth](https://camilleroth.github.io/).
   - area: Sound & Music Computing
     institution: UPF - MTG Group
     date_start: 2019
@@ -56,9 +56,9 @@ education:
       - Supervisors: Prof. Emilia Gomez, Dr. Lorenzo Porcarro
   - area: BSc Computer Science
     institution: University of Liverpool
-    date_start: 2019
-    date_end: 2016
-    summary: |
+    date_start: 01.10.2019
+    date_end: 01.10.2016
+    summary:
       - Supervisor: Prof. [Michele Zito](https://scholar.google.co.uk/citations?hl=en&user=nZUs5w8AAAAJ&view_op=list_works&sortby=pubdate)
       - Thesis: "Adapting Elaine Walker's Chaos Melody Theory to a Live Coding"
 work:
@@ -66,9 +66,9 @@ work:
     company_name: CNRS
     company_url: ''
     company_logo: ''
-    date_start: 2020
-    date_end: 2025
-    summary: |2-
+    date_start: 01.01.2020
+    date_end: 01.10.2024
+    summary:
       - Working within the [RECORDS] (https://records.huma-num.fr/en/home/) project in collaboration with Deezer
       - Analysed user listening histories at scale
       - Worked on design & analysis of large scale survey on listening tastes & practices
