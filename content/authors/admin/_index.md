@@ -28,16 +28,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:dougal.shakespeare@cmb.hu-berlin.de'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/DougalShakes
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/deshiiii
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/dougal-shakespeare/
 
 education:
   - area: PhD Computer Science
@@ -53,7 +51,7 @@ education:
     summary: |
       - Published at RecSys ImpactRS conference
       - Thesis: "Artist Gender Bias on Music Streaming Platfors"
-      - Supervisors: Prof. Emilia Gomez, Dr. Lorenzo Porcarro
+      - Supervisors: Prof. [Emilia Gomez](https://scholar.google.com/citations?user=09PV4lsAAAAJ&hl=en&oi=ao), Dr. [Lorenzo Porcarro](https://lorenzoporcaro.me/)
   - area: BSc Computer Science
     institution: University of Liverpool
     date_start: 01.10.2019
@@ -69,7 +67,7 @@ work:
     date_start: 01.01.2020
     date_end: 01.10.2024
     summary:
-      - Working within the [RECORDS] (https://records.huma-num.fr/en/home/) project in collaboration with Deezer
+      - Working within the [RECORDS](https://records.huma-num.fr/en/home/) project in collaboration with Deezer
       - Analysed user listening histories at scale
       - Worked on design & analysis of large scale survey on listening tastes & practices
 
