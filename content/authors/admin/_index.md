@@ -81,6 +81,7 @@ work:
       - Analysed user listening histories at scale
       - Worked on design & analysis of large scale survey on listening tastes & practices
 
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -88,40 +89,25 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        icon: devicon/python
+      - name: scikit-learn
         description: ''
         percent: 80
-        icon: camera
+        icon: devicon/scikitlearn
+      - name: Visualisation (Plotly, matplotlib, ect.)
+        description: ''
+        percent: 80
+        icon: devicon/matplotlib
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: French
     percent: 25
+
+
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
