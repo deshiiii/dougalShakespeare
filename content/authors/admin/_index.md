@@ -116,7 +116,7 @@ languages:
 awards:
   - title: Reframing the Filter Bubble
     url:
-    date: '2025 - inprint'
+    date: '2023-11-25'
     awarder: Scientific Reports
     icon: coursera
     summary: |
