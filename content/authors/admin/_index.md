@@ -11,7 +11,7 @@ last_name: Shakespeare
 
 # Status emoji
 status:
-  icon:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -53,13 +53,13 @@ education:
     summary: |
       - Published at RecSys ImpactRS conference
       - Thesis: "Artist Gender Bias on Music Streaming Platforms"
-      - Supervisors: Prof. [Emilia Gomez](https://scholar.google.com/citations?user=09PV4lsAAAAJ&hl=en&oi=ao), Dr. [Lorenzo Porcarro](https://lorenzoporcaro.me/)
+      - Supervisors: Prof. Emilia Gomez, Dr. Lorenzo Porcarro
   - area: BSc Computer Science
     institution: University of Liverpool
     date_start: 2016-10-01
     date_end: 2019-10-01
     summary:
-      - Supervisor: Prof. [Michele Zito](https://scholar.google.co.uk/citations?hl=en&user=nZUs5w8AAAAJ&view_op=list_works&sortby=pubdate)
+      - Supervisor: Prof. Michele Zito
       - Thesis: "Adapting Elaine Walker's Chaos Melody Theory to a Live Coding"
 work:
   - position: User Research Engineer
