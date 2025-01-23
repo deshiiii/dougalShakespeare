@@ -114,15 +114,36 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Reframing the Filter Bubble
+  - title: Reframing the filter bubble through diverse scale effects in online music consumption.
     url:
     date: '2025-02-01'
     awarder: Scientific Reports
     icon:
     summary: |
-      todo: write some stuff...
+      Accepted, currently in production.
+  - title: Interpreting Node Embedding Distances Through n-Order Proximity Neighbourhoods.
+    url:
+    date: '2024-04-14'
+    awarder: International Conference on Complex Networks
+    icon:
+    summary: |
+      [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=at_8RJMAAAAJ&citation_for_view=at_8RJMAAAAJ:qjMakFHDy7sC)
+  - title: Tracing Affordance and Item Adoption on Music Streaming Platforms
+    url:
+    date: '2021-08-09'
+    awarder: International Society of Music Information Retrieval
+    icon:
+    summary: |
+      [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=at_8RJMAAAAJ&citation_for_view=at_8RJMAAAAJ:u5HHmVD_uO8C)
+  - title: Exploring artist gender bias in music recommendation
+    url:
+    date: '2020-03-09'
+    awarder: RecSys, ImpactRS workshop
+    icon:
+    summary: |
+      [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=at_8RJMAAAAJ&citation_for_view=at_8RJMAAAAJ:u-x6o8ySG0sC)
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Computational Social Science researcher specialisng in Music Information Retrieval, algorithmic confinment and culutral evolution. My research interests revolve around understanding how modern day music streaming platforms and the algorithmic devices they contain shape cultural consumption practices both on and off platform.
