@@ -1,111 +1,77 @@
 ---
 # Display name
-title: 吳健雄
+title: Dougal Shakespeare
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dougal
+last_name: Shakespeare
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher in Computational Social Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: CAMS, CNRS / EHESS
+    url: https://cams.ehess.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:dougal.shakespeare@cmb.hu-berlin.de'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/DougalShakes
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/deshiiii
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/dougal-shakespeare/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+    url: https://scholar.google.com/citations?user=at_8RJMAAAAJ&hl=en
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Science
+    institution: EHESS
+    date_start: 2021-10-01
+    date_end: 2025-03-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on how the different facets of music streaming platforms shape listening practices. Supervised by Prof. [Camille Roth](https://camilleroth.github.io/).
+  - area: Sound & Music Computing
+    institution: UPF - MTG Group
+    date_start: 2019-10-01
+    date_end: 2020-10-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Published at RecSys ImpactRS conference
+      - Thesis: "Artist Gender Bias on Music Streaming Platforms"
+      - Supervisors: Prof. [Emilia Gomez](https://scholar.google.com/citations?user=09PV4lsAAAAJ&hl=en&oi=ao), Dr. [Lorenzo Porcarro](https://lorenzoporcaro.me/)
+  - area: BSc Computer Science
+    institution: University of Liverpool
+    date_start: 2016-10-01
+    date_end: 2019-10-01
+    summary:
+      - Supervisor: Prof. [Michele Zito](https://scholar.google.co.uk/citations?hl=en&user=nZUs5w8AAAAJ&view_op=list_works&sortby=pubdate)
+      - Thesis: "Adapting Elaine Walker's Chaos Melody Theory to a Live Coding"
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: User Research Engineer
+    company_name: CNRS
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_end: 2024-10-01
+    summary:
+      - Working within the [RECORDS](https://records.huma-num.fr/en/home/) project in collaboration with Deezer
+      - Analysed user listening histories at scale
+      - Worked on design & analysis of large scale survey on listening tastes & practices
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,39 +80,21 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        icon: devicon/python
+      - name: scikit-learn
         description: ''
         percent: 80
-        icon: camera
+        icon: devicon/scikitlearn
+      - name: Visualisation (Plotly, matplotlib, ect.)
+        description: ''
+        percent: 80
+        icon: devicon/matplotlib
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: French
     percent: 25
 
 # Awards.
