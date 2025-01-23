@@ -1,75 +1,111 @@
 ---
 # Display name
-title: Dougal Shakespeare
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation:
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Dougal
-last_name: Shakespeare
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
-  icon:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Role/position/tagline
-role: Researcher in Computational Social Science
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: CAMS, CNRS / EHESS
-    url: https://cams.ehess.fr/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:dougal.shakespeare@cmb.hu-berlin.de'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/DougalShakes
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/deshiiii
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/dougal-shakespeare/
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
+
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: PhD Computer Science
-    institution: EHESS
-    date_start: 2021-10-01
-    date_end: 2025-03-01
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Thesis on how the different facets of music streaming platforms shape listening practices. Supervised by Prof. [Camille Roth](https://camilleroth.github.io/).
-  - area: Sound & Music Computing
-    institution: UPF - MTG Group
-    date_start: 2019-10-01
-    date_end: 2020-10-01
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      - Published at RecSys ImpactRS conference
-      - Thesis: "Artist Gender Bias on Music Streaming Platfors"
-      - Supervisors: Prof. [Emilia Gomez](https://scholar.google.com/citations?user=09PV4lsAAAAJ&hl=en&oi=ao), Dr. [Lorenzo Porcarro](https://lorenzoporcaro.me/)
-  - area: BSc Computer Science
-    institution: University of Liverpool
-    date_start: 2016-10-01
-    date_end: 2019-10-01
-    summary:
-      - Supervisor: Prof. [Michele Zito](https://scholar.google.co.uk/citations?hl=en&user=nZUs5w8AAAAJ&view_op=list_works&sortby=pubdate)
-      - Thesis: "Adapting Elaine Walker's Chaos Melody Theory to a Live Coding"
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: User Research Engineer
-    company_name: CNRS
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 01.01.2020
-    date_end: 01.10.2024
-    summary:
-      - Working within the [RECORDS](https://records.huma-num.fr/en/home/) project in collaboration with Deezer
-      - Analysed user listening histories at scale
-      - Worked on design & analysis of large scale survey on listening tastes & practices
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -78,21 +114,39 @@ skills:
     items:
       - name: Python
         description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
         percent: 100
-        icon: devicon/python
-      - name: scikit-learn
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
         description: ''
         percent: 80
-        icon: devicon/scikitlearn
-      - name: Visualisation (Plotly, matplotlib, ect.)
-        description: ''
-        percent: 80
-        icon: devicon/matplotlib
+        icon: camera
 
 languages:
   - name: English
     percent: 100
-  - name: French
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
     percent: 25
 
 # Awards.
@@ -127,4 +181,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+## About Me
+
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
