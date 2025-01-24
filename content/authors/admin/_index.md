@@ -77,7 +77,7 @@ work:
     date_start: 2021-01-01
     date_end: 2024-10-01
     summary: |
-      - Working within the [RECORDS](https://records.huma-num.fr/en/home/) project in collaboration with Deezer
+      - Working within the [RECORDS](https://records.huma-num.fr/en/home/) project in collaboration with **Deezer**
       - Analysed user listening histories at scale
       - Worked on design & analysis of large scale survey on listening tastes & practices
 
