@@ -146,4 +146,6 @@ awards:
 
 ## About Me
 
-I am Computational Social Science researcher specialisng in Music Information Retrieval, algorithmic confinment and culutral evolution. My research interests revolve around understanding how modern day music streaming platforms and the algorithmic devices they contain shape cultural consumption practices both on and off platform.
+I am a Computational Social Science researcher specializing in Music Information Retrieval, algorithmic confinement and cultural evolution. My research interests revolve around understanding how modern day music streaming platforms and the algorithmic devices they contain shape cultural consumption practices both on and off platform.
+
+Until recently, I was based at the Centre Marc Bloch's [Computational Social Science Team](https://cmb.huma-num.fr/css-seminar/) in Berlin.
