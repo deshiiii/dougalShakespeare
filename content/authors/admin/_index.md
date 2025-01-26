@@ -128,22 +128,19 @@ awards:
     date: '2024-04-14'
     awarder: International Conference on Complex Networks
     icon:
-    summary: |
-      [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=at_8RJMAAAAJ&citation_for_view=at_8RJMAAAAJ:qjMakFHDy7sC)
+    summary:
   - title: Tracing Affordance and Item Adoption on Music Streaming Platforms
-    url:
+    url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=at_8RJMAAAAJ&citation_for_view=at_8RJMAAAAJ:u5HHmVD_uO8C
     date: '2021-08-09'
     awarder: International Society of Music Information Retrieval
     icon:
-    summary: |
-      [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=at_8RJMAAAAJ&citation_for_view=at_8RJMAAAAJ:u5HHmVD_uO8C)
+    summary:
   - title: Exploring artist gender bias in music recommendation
-    url:
+    url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=at_8RJMAAAAJ&citation_for_view=at_8RJMAAAAJ:u-x6o8ySG0sC
     date: '2020-03-09'
     awarder: RecSys, ImpactRS workshop
     icon:
-    summary: |
-      [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=at_8RJMAAAAJ&citation_for_view=at_8RJMAAAAJ:u-x6o8ySG0sC)
+    summary:
 ---
 
 ## About Me
