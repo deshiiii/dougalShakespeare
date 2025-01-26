@@ -70,7 +70,6 @@ education:
     date_end: 2019-10-01
     summary: |
       - Thesis: "Adapting Elaine Walker's Chaos Melody Theory to a Live Coding Context"
-      - Supervisor: Prof. Michele Zito
 work:
   - position: User Research Engineer
     company_name: CNRS
