@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "3rem"
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -24,7 +24,7 @@ sections:
         filename: banner.png
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: justify; font-size: 0.7em;'
   - block: experience
     content:
       username: admin
@@ -32,7 +32,7 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: true
   - block: awards
     content:
       title: Select Publications
