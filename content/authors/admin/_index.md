@@ -75,8 +75,8 @@ work:
     company_name: CNRS
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: 2024-10-01
+    date_start: 2020-10-01
+    date_end: 2021-10-01
     summary: |
       - Working within the [RECORDS](https://records.huma-num.fr/en/home/) project in collaboration with **Deezer**
       - Statistically analysed users' anonymised listening histories at scale
