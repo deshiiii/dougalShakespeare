@@ -124,7 +124,7 @@ awards:
     summary: |
       Accepted, currently in production.
   - title: Interpreting Node Embedding Distances Through n-Order Proximity Neighbourhoods.
-    url:
+    url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=at_8RJMAAAAJ&citation_for_view=at_8RJMAAAAJ:qjMakFHDy7sC
     date: '2024-04-14'
     awarder: International Conference on Complex Networks
     icon:
