@@ -53,22 +53,24 @@ education:
     date_start: 2021-10-01
     date_end: 2025-03-01
     summary: |
-      Thesis on how the different facets of music streaming platforms shape listening practices. Supervised by Prof. [Camille Roth](https://camilleroth.github.io/).
+      - Thesis: "Multi-affordance Concentration Dynamics on Music Streaming Platforms."
+      - Description: Through a large-scale statistical analysis of Deezer users' consumption histories and expressed off-platform attitudes my thesis examines how music streaming platforms facilitate attentive or passive music interactions and furthermore, the role of algorithmic devices in creating confined or rather, diverse listening practices.
+      - Supervised by Prof. [Camille Roth](https://camilleroth.github.io/).
   - area: Sound & Music Computing
     institution: UPF - MTG Group
     date_start: 2019-10-01
     date_end: 2020-10-01
     summary: |
-      - Published at RecSys ImpactRS conference
       - Thesis: "Artist Gender Bias on Music Streaming Platforms"
+      - Published at RecSys ImpactRS conference
       - Supervisors: Prof. Emilia Gomez, Dr. Lorenzo Porcarro
   - area: BSc Computer Science
     institution: University of Liverpool
     date_start: 2016-10-01
     date_end: 2019-10-01
     summary: |
+      - Thesis: "Adapting Elaine Walker's Chaos Melody Theory to a Live Coding Context"
       - Supervisor: Prof. Michele Zito
-      - Thesis: "Adapting Elaine Walker's Chaos Melody Theory to a Live Coding"
 work:
   - position: User Research Engineer
     company_name: CNRS
@@ -78,8 +80,8 @@ work:
     date_end: 2024-10-01
     summary: |
       - Working within the [RECORDS](https://records.huma-num.fr/en/home/) project in collaboration with **Deezer**
-      - Analysed user listening histories at scale
-      - Worked on design & analysis of large scale survey on listening tastes & practices
+      - Statistically analysed users' anonymised listening histories at scale
+      - Assisted in the design & analysis of a large-scale survey (20K+) distributed via Deezer to shed light on how users on-platform listening preferences relate to their demographics, practices and expressed tastes.
 
 
 # Skills
