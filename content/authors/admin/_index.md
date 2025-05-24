@@ -48,7 +48,7 @@ interests:
   - Mixed Methods
 
 education:
-  - area: PhD Computer Science
+  - area: PhD Computational Social Science
     institution: EHESS
     date_start: 2021-10-01
     date_end: 2025-07-01
@@ -78,10 +78,10 @@ work:
     date_start: 2025-03-01
     date_end: 2025-06-01
     summary: |
-      - Worked principally on large-scale survey implementation analysis & analysis for video game clients such as **EA** & **Plaion** focusing on Concept testing & market research.
-      - Leveraged Solsten's psychometric data to provide granular persona based segmentation.
-      - Lead client communications & report writing across several projects.
-      - Tech stack: Alchemer, Python, Figma
+      - Delivered large-scale survey analysis for major gaming clients like EA and Plaion, with a focus on concept testing and market research
+      - Applied Solsten’s psychometric data for in-depth, persona-based segmentation
+      - Led client comms and reporting across multiple projects
+      - Tools: Alchemer, Python, Figma
   - position: User Research Engineer
     company_name: CNRS
     company_url: 'https://records.huma-num.fr/en/home/'
@@ -90,8 +90,7 @@ work:
     date_end: 2024-08-01
     summary: |
       - Working within the [RECORDS](https://records.huma-num.fr/en/home/) project in collaboration with **Deezer**
-      - Statistically analysed users' anonymised listening histories at scale
-      - Assisted in the design & analysis of a large-scale survey (20K+) distributed via Deezer to shed light on how users on-platform listening preferences relate to their demographics, practices and expressed tastes.
+      - Assisted in the design & analysis of a large-scale survey (20K+) distributed via Deezer to shed light on how users on-platform listening behaviours relate to their demographics, practices and expressed tastes.
 
 
 # Skills
@@ -154,7 +153,7 @@ awards:
 
 ## About Me
 
-I am a mixed methods UX researcher with a specialization in user research focused on **music** and **video games**. I have collaborated with partners such as **Deezer** and **EA**, delivering actionable insights in two domains I am deeply passionate about. I am currently finalising a **PhD** in Computational Social Science, in which I examine how **music streaming platforms** and their underlying algorithmic systems shape cultural consumption—both on and off platform—through the analysis of granular user listening histories from Deezer.
+I am a mixed methods UX researcher with a specialization in user research focused on **music** and **video games**. I have collaborated with partners such as **Deezer** and **EA**, delivering actionable insights in two domains I am deeply passionate about. I am currently finalising a **PhD** in Computational Social Science, in which I examine how **music streaming platforms** and their underlying algorithmic systems shape cultural consumption - both on and off platform - through the analysis of granular user listening histories from Deezer.
 
 
-Until recently, I was based at the Centre Marc Bloch's [Computational Social Science Team](https://cmb.huma-num.fr/css-seminar/) in Berlin where I undertook my PhD in collaboration with Deezer.
+Until recently, I was based at the Centre Marc Bloch's [Computational Social Science Team](https://cmb.huma-num.fr/css-seminar/) in Berlin.
