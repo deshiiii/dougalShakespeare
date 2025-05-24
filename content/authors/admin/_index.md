@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher in Computational Social Science
+role: Mixed Methods UX Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

@@ -32,7 +32,7 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: true
+      is_education_first: false
   - block: awards
     content:
       title: Select Publications
