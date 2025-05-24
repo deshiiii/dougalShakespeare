@@ -152,6 +152,7 @@ awards:
 
 ## About Me
 
-I am a mixed methods UX researcher specialising in user research relating to digital entertainment and platforms (music streaming, video games). My research interests revolve around understanding how modern day platforms and their different affordances such as algorithmic devices shape cultural consumption practices both on and off platform.
+I am a mixed methods UX researcher with a specialization in user research focused on **music** and **video games**. I have collaborated with partners such as **Deezer** and **EA**, delivering actionable insights in two domains I am deeply passionate about. I am currently finalising a **PhD*** in Computational Social Science, in which I examine how **music streaming platforms** and their underlying algorithmic systems shape cultural consumption—both on and off platform—through the analysis of granular user listening histories from Deezer.
+
 
 Until recently, I was based at the Centre Marc Bloch's [Computational Social Science Team](https://cmb.huma-num.fr/css-seminar/) in Berlin where I undertook my PhD in collaboration with Deezer.
