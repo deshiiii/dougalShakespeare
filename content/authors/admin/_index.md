@@ -43,15 +43,15 @@ profiles:
     url: https://scholar.google.com/citations?user=at_8RJMAAAAJ&hl=en
 
 interests:
-  - Filter Bubbles
-  - Cultural Evolution
-  - Information Retrieval
+  - Ux Research
+  - Music Information Retrieval
+  - Mixed Methods
 
 education:
   - area: PhD Computer Science
     institution: EHESS
     date_start: 2021-10-01
-    date_end: 2025-03-01
+    date_end: 2025-07-01
     summary: |
       - Thesis: "Multi-affordance Concentration Dynamics on Music Streaming Platforms."
       - Description: Through a large-scale statistical analysis of Deezer users' consumption histories and expressed off-platform attitudes my thesis examines how music streaming platforms facilitate attentive or passive music interactions and furthermore, the role of algorithmic devices in creating confined or rather, diverse listening practices.
@@ -71,22 +71,21 @@ education:
     summary: |
       - Thesis: "Adapting Elaine Walker's Chaos Melody Theory to a Live Coding Context"
 work:
-  - position: User Research Engineer
+  - position: UX Researcher
     company_name: Solsten
     company_url: ''
     company_logo: ''
-    date_start: 2025-10-01
-    date_end: 2025-10-04
+    date_start: 2025-03-01
+    date_end: 2025-06-01
     summary: |
-      - Working within the [RECORDS](https://records.huma-num.fr/en/home/) project in collaboration with **Deezer**
-      - Statistically analysed users' anonymised listening histories at scale
-      - Assisted in the design & analysis of a large-scale survey (20K+) distributed via Deezer to shed light on how users on-platform listening preferences relate to their demographics, practices and expressed tastes.
-  - position: User Research Engineer2
+      - Worked principally on large-scale survey implementation analysis & analysis for video game clients such as EA & Plaion.
+      - Lead client communications & report writing across several projects.
+  - position: User Research Engineer
     company_name: CNRS
     company_url: ''
     company_logo: ''
     date_start: 2020-10-01
-    date_end: 2021-10-01
+    date_end: 2024-08-01
     summary: |
       - Working within the [RECORDS](https://records.huma-num.fr/en/home/) project in collaboration with **Deezer**
       - Statistically analysed users' anonymised listening histories at scale
@@ -126,12 +125,11 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Reframing the filter bubble through diverse scale effects in online music consumption.
-    url:
+    url: https://www.nature.com/articles/s41598-024-75967-0
     date: '2025-02-01'
     awarder: Scientific Reports
     icon:
-    summary: |
-      Accepted, currently in production.
+    summary:
   - title: Interpreting Node Embedding Distances Through n-Order Proximity Neighbourhoods.
     url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=at_8RJMAAAAJ&citation_for_view=at_8RJMAAAAJ:qjMakFHDy7sC
     date: '2024-04-14'
@@ -154,6 +152,6 @@ awards:
 
 ## About Me
 
-I am a Computational Social Science researcher specialising in the study of algorithmic confinement, filter bubbles and cultural and consumption-based evolution. My research interests revolve around understanding how modern day platforms and their different affordances such as algorithmic devices shape cultural consumption practices both on and off platform.
+I am a mixed methods UX researcher specialising in user research relating to digital entertainment and platforms (music streaming, video games). My research interests revolve around understanding how modern day platforms and their different affordances such as algorithmic devices shape cultural consumption practices both on and off platform.
 
-Until recently, I was based at the Centre Marc Bloch's [Computational Social Science Team](https://cmb.huma-num.fr/css-seminar/) in Berlin.
+Until recently, I was based at the Centre Marc Bloch's [Computational Social Science Team](https://cmb.huma-num.fr/css-seminar/) in Berlin where I undertook my PhD in collaboration with Deezer.
