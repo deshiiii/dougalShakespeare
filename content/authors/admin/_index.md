@@ -71,6 +71,16 @@ education:
     summary: |
       - Thesis: "Adapting Elaine Walker's Chaos Melody Theory to a Live Coding Context"
 work:
+- position: User Research Engineer
+  company_name: CNRS
+  company_url: ''
+  company_logo: ''
+  date_start: 2020-10-01
+  date_end: 2021-10-01
+  summary: |
+    - Working within the [RECORDS](https://records.huma-num.fr/en/home/) project in collaboration with **Deezer**
+    - Statistically analysed users' anonymised listening histories at scale
+    - Assisted in the design & analysis of a large-scale survey (20K+) distributed via Deezer to shed light on how users on-platform listening preferences relate to their demographics, practices and expressed tastes.
   - position: User Research Engineer
     company_name: CNRS
     company_url: ''
